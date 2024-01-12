@@ -1,0 +1,7 @@
+@inproceedings{REPO105,
+    author = "Li, Jiahe and Zhang, Jiawei and Bai, Xiao and Zhou, Jun and Gu, Lin",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "7568--7578",
+    title = "{Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis}",
+    year = "2023"
+}
